@@ -1,2 +1,10 @@
-# IFSP_MVC
- Desenvolvimento de uma aplicação web utilizando o MVC - Linguagem de Programação 3 - IFSP
+## ASP.NET MVC
+- Projeto desenvolvido para Linguagem de Programação 3 - LP3
+- Objetivo de explicar e criar uma aplicação WEB utilizando o padrão de arquitetura de software MVC
+- Utilização das tecnologias: c# e Html
+
+
+## Desenvolvedores 🇧🇷
+- Davi Araujo :joystick:
+- Guilherme Ferreira 🤿
+- Nicole Rodrigues :four_leaf_clover:
